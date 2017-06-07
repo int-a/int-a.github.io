@@ -13,7 +13,7 @@ permalink: /resume/
 ### Education
 
 ##### University of Connecticut, 2013
-- B.S.E. Computer Science and Engineering with Minior in Engineering Management (Business)
+- B.S.E. Computer Science and Engineering with Minor in Engineering Management (Business)
 - Undergraduate Coursework: Operating Systems, Data Structures and Algorithms, Databases, Programming Languages, Computer Architecture, Digital Logic and Design, Discrete Math, Multivariable Calculus
 
 <br>
