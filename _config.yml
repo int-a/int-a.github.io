@@ -8,7 +8,6 @@ paginate: 3
 paginate_path: "/blog/page/:num/"
 comments: true
 
-source: source
 destination: _site
 sass:
   sass_dir: _scss
@@ -19,7 +18,7 @@ title: Anthony Intino
 description: "A place for my thoughts and experiences while learning Android"
 keywords: "Jekyll, theme, free, SEO, blog, web, Android, developer, engineer, android developer, android engineer"
 url: http://int-a.github.io
-baseurl: "/int-a"
+baseurl: ""
 # baseurl: ""
 
 # google_analytics: UA-52446115-1
@@ -52,4 +51,3 @@ navbar:
     title: Blog
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
-include: ["_includes"]
