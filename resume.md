@@ -49,7 +49,7 @@ permalink: /resume/
 
 ### Projects
 
-##### 2017: Sunshine Weather Android App
+##### 2017: [Sunshine Weather Android App](https://github.com/int-a/Sunshine-Udacity)
 - This app was created alongside Udacity's intermediate "Developing Android Apps" course.
 - Consumes a REST API using a custom built ContentProvider to read and store data off of the main thread.
 - Some personal tweaks such as adding a compass with wind direction indicator.

@@ -2,7 +2,7 @@
 layout: post
 title: "How ExoPlayer Resumes Video Playback After Loss of Focus"
 permalink: how-exoplayer-resumes-video-playback-after-loss-of-focus
-date: 2017-05-04 13:07:14
+date: 2017-06-04 13:07:14
 comments: true
 description: "How ExoPlayer Resumes Video Playback After Loss of Focus"
 keywords: ""
