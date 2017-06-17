@@ -3,6 +3,15 @@ layout: page
 permalink: /resume/
 ---
 
+### Projects
+
+##### 2017: [Sunshine Weather Android App](https://github.com/int-a/Sunshine-Udacity)
+- This app was created alongside Udacity's intermediate "Developing Android Apps" course.
+- Consumes a REST API using a custom built ContentProvider to read and store data off of the main thread.
+- Some personal tweaks such as adding a compass with wind direction indicator.
+
+<br>
+
 ### Languages and Technologies
 
 - Java, SQL, C#.NET, XML, JSON, git, SVN
@@ -44,12 +53,3 @@ permalink: /resume/
 - Exposure to to data warehousing, big-data analytics, and stringent, industry wide compliance regulations.
 - Improved department's Agile practices by involving BA's in planning sessions and development sprints.
 - Strong focus on analyzing business requirements, working with business partners, and understanding the functional work flow of information from source to destination systems.
-
-<br>
-
-### Projects
-
-##### 2017: [Sunshine Weather Android App](https://github.com/int-a/Sunshine-Udacity)
-- This app was created alongside Udacity's intermediate "Developing Android Apps" course.
-- Consumes a REST API using a custom built ContentProvider to read and store data off of the main thread.
-- Some personal tweaks such as adding a compass with wind direction indicator.
